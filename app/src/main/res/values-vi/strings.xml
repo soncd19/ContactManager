@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Danh bạ</string>
+
+    <string name="title_name_list_contacts">Danh bạ</string>
+    <string name="title_name_list_contacts_star">Yêu thích</string>
+    <string name="title_name_infomation">Thông tin</string>
+    <string name="menu_item_search">Tìm kiếm</string>
+    <string name="block_list">Danh sách chặn</string>
+    <string name="syn_contacts">Đồng bộ danh bạ</string>
+    <string name="delete_all_contacts">Xoá hết liên hệ</string>
+    <string name="letter_tile_letter_font_family">sans-serif-light</string>
+    <string name="permission_contacts_rationale">Quản lý danh bạ/Điện thoại cần quyền truy cập vào danh bạ của bạn</string>
+    <string name="permissions_not_granted">Quyền không được cấp.</string>
+    <string name="about_version">Phiên bản: 1.0.0</string>
+    <string name="about_email">Email: caodinhsonbk202@gmail.com</string>
+    <string name="about_number">Số điện thoại: 0987604546</string>
+    <string name="support_information">Thông tin hỗ trợ</string>
+    <string name="add_contact_name">Tên</string>
+    <string name="add_contact_number">Số điện thoại</string>
+    <string name="add_contact">Thêm liên hệ</string>
+    <string name="insert_contact_sucess">Thêm liên hệ thành công</string>
+    <string name="call_contact">Gọi</string>
+    <string name="sms_number">Tin nhắn</string>
+    <string name="delete_contact">Xoá</string>
+    <string name="edit_contact">Sửa</string>
+    <string name="block_contact">Chặn</string>
+    <string name="do_you_want_delete_contact">Bạn có muốn xoá liên hệ này?</string>
+    <string name="title_delete_contact">Xoá liên hệ</string>
+    <string name="no_contact_in_list">Không có liên hệ nào</string>
+    <string name="title_block_contact">Chặn liên hệ</string>
+    <string name="do_you_want_block_number">Bạn có muốn chặn số điện thoại này?</string>
+    <string name="title_unblock_contact">Bỏ chặn liên hệ</string>
+    <string name="do_you_want_un_block_number">Bạn có muốn bỏ chặn số điện thoại này?</string>
+    <string name="add_edit_name">Tên</string>
+    <string name="add_edit_number">Số điện thoại</string>
+    <string name="add_title">Thêm liên hệ</string>
+    <string name="add_edit_label">Add/Edit Contact</string>
+    <string name="version_name_app">Phiên bản</string>
+    <string name="app_other">Khác</string>
+
+</resources>

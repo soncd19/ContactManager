@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Contact Manager</string>
+
+    <string name="title_name_list_contacts">Contacts</string>
+    <string name="title_name_list_contacts_star">Favorite</string>
+    <string name="title_name_infomation">About</string>
+    <string name="menu_item_search">Search</string>
+    <string name="block_list">Block list</string>
+    <string name="syn_contacts">Synchronize contacts</string>
+    <string name="delete_all_contacts">Delete contacts</string>
+    <string name="letter_tile_letter_font_family">sans-serif-light</string>
+    <string name="permission_contacts_rationale">Contacts/Phones permissions are needed to demonstrate access</string>
+    <string name="permissions_not_granted">Permissions were not granted.</string>
+    <string name="about_version">Version: 1.0.0</string>
+    <string name="about_email">Email: caodinhsonbk202@gmail.com</string>
+    <string name="about_number">Number: 0987604546</string>
+    <string name="support_information">Information support</string>
+    <string name="add_contact_name">Tên</string>
+    <string name="add_contact_number">Số điện thoại</string>
+    <string name="add_contact">Add contact</string>
+    <string name="insert_contact_sucess">Insert Contact sucess</string>
+    <string name="call_contact">Call</string>
+    <string name="sms_number">Sms</string>
+    <string name="delete_contact">Delete</string>
+    <string name="edit_contact">Edit</string>
+    <string name="block_contact">Block</string>
+    <string name="do_you_want_delete_contact">Do you want to delete this contact?</string>
+    <string name="title_delete_contact">Delete contact</string>
+    <string name="no_contact_in_list">No contacts</string>
+    <string name="title_block_contact">Block contact</string>
+    <string name="do_you_want_block_number">You want to block your phone number?</string>
+    <string name="title_unblock_contact">Un block contact</string>
+    <string name="do_you_want_un_block_number">>You want to un block your phone number?</string>
+    <string name="add_edit_name">Name</string>
+    <string name="add_edit_number">number</string>
+    <string name="add_title">Add Contact</string>
+    <string name="add_edit_label">Add/Edit Contact</string>
+    <string name="version_name_app">Version</string>
+    <string name="app_other">Other</string>
+</resources>

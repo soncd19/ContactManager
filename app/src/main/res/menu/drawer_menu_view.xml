@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/list_contacts_block"
+        android:title="@string/block_list"
+        android:icon="@drawable/ic_un_block"/>
+    <item
+        android:id="@+id/syn_contacts"
+        android:title="@string/syn_contacts"
+        android:icon="@drawable/ic_sync_contacts"/>
+    <item
+        android:id="@+id/delete_all_contacts"
+        android:title="@string/delete_all_contacts"
+        android:icon="@drawable/ic_delete_list_contacts"/>
+    <item android:title="@string/app_other">
+        <menu>
+            <item
+                android:id="@+id/about_contact_app"
+                android:icon="@drawable/ic_other"
+                android:title="@string/title_name_infomation"/>
+        </menu>
+    </item>
+
+</menu>
